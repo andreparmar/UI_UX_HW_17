@@ -1,0 +1,53 @@
+body 
+
+.aboutContainer {
+  justify-content: center;
+  margin: auto;
+  padding: 15px;
+}
+.sectionHeading {
+  text-align: center;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+.learnButton {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.subHeading {
+  text-align: center;
+  padding-top: 1px;
+  padding-bottom: 15px;
+  justify-content: center;
+}
+.bodyText {
+  text-align: center;
+  padding-bottom: 15px;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+}
+.iconImage {
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin: auto;
+  padding: 15px;
+  border: 0;
+}
+.img-thumbnail {
+  border: 0px solid #dee2e6;
+}
+.text-center {
+  text-align: center;
+  padding-bottom: 15px;
+  justify-content: center;
+  align-items: center;
+}
+.card {
+  margin: 0 auto;
+}
+.cardContainer {
+  padding-bottom: 25px;
+}
